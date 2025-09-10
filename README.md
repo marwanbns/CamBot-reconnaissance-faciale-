@@ -12,4 +12,5 @@ Voici une démo du rendu.
 ![Screenshot Facial Recogniton Biden](imagesreadme/ScreenshotBiden.png)
 ![Screenshot Facial Recogniton Zuckerberg](imagesreadme/ScreenshotZuckerberg.png)
 
-##  Merci d'avoir vu mon projet.
+##  Auteur
+Projet développé par Marwan bns
